@@ -14,5 +14,5 @@ python 01a_trigger_add_to_amp_scd.py
 
 ### Example script output: 
 ```
-{'data': {'status': 'failure'}}
+{'data': {'status': 'success'}}
 ```
