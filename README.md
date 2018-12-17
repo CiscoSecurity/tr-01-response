@@ -10,7 +10,6 @@ These scripts demonstrate the basics of interacting with the Threat Response Res
 ### Usage:
 ```
 python 01a_trigger_add_to_amp_scd.py
-
 ```
 
 ### Example script output: 
