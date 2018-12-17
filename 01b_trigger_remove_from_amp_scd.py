@@ -9,7 +9,7 @@ url = 'https://visibility.amp.cisco.com/iroh/iroh-response/respond/trigger/AMP%2
 #               'observable_type':'sha256',
 #               'observable_value':'d15766ead5d8ffe68fd96d4bda75c07378fc74f76e251ae6631f4ec8226d2bcb'}
 
-parameters = {'list':'<FILE_LIST_GUID',
+parameters = {'list':'<FILE_LIST_GUID>',
               'observable_type':'sha256',
               'observable_value':'<SHA256>'}
 
